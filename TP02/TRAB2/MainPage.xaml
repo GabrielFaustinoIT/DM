@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRAB2.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Label Text="Style Resources" HorizontalOptions="Center"/>
+            <Button Text="ESTILO PADRÃO" Clicked="Avancar"/>
+            <Button Text="ESTILO EVENT TRIGGRES" Clicked="Avancar3"/>
+            
+            <Label Text="Passar Parametro" HorizontalOptions="Center"/>
+            <Button Text="HOME" Clicked="Avancar4"/>
+
+            <Label Text="ListView" HorizontalOptions="Center"/>
+            <Button Text="PRODUTO" Clicked="Avancar5"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
