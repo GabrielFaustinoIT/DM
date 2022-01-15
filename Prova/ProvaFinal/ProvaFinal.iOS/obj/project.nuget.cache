@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "56uFvsz2PTWXvTokfib5HnbHLhlG5+gtBtx67z4cq8VAZQhBHgz7gPtbJNvj7uEBfMa+TsIJm0nReKWOx1B2Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valdemir\\Desktop\\IFSP\\ProvaFinal\\ProvaFinal\\ProvaFinal\\ProvaFinal.iOS\\ProvaFinal.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valdemir\\.nuget\\packages\\sqlite-net-pcl\\1.4.118\\sqlite-net-pcl.1.4.118.nupkg.sha512",
+    "C:\\Users\\Valdemir\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.5\\sqlitepclraw.bundle_green.1.1.5.nupkg.sha512",
+    "C:\\Users\\Valdemir\\.nuget\\packages\\sqlitepclraw.core\\1.1.5\\sqlitepclraw.core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Valdemir\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.5\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.5.nupkg.sha512",
+    "C:\\Users\\Valdemir\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
